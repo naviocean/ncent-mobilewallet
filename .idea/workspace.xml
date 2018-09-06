@@ -2,285 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1185601-bd7c-4da3-a90b-d70a6651d8fb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Actions/AuthActions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actions/SendTokensActions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actions/SignupActions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actions/TokenDetailActions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actions/TokensActions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actions/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actions/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Common/Spinner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Common/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/LoginOrSignup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/LoginScreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/SendTokens.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/SignupScreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/TokenDetailsScreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/TokensScreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Img/nCent_Logo_long.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Img/ncent_NOsubline_1000px_BG_blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reducers/AuthReducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reducers/SendTokensReducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reducers/SignupReducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reducers/TokenDetailReducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reducers/TokensReducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reducers/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/android.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/expo.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/fabric.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/dev/java/host/exp/exponent/BuildVariantConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/dev19/java/host/exp/exponent/BuildVariantConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/devRemoteKernel/java/host/exp/exponent/BuildVariantConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/EmojiOne.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/kernel-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/kernel.android.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/host/exp/exponent/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/host/exp/exponent/MainApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/host/exp/exponent/generated/AppConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/host/exp/exponent/generated/DetachBuildConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/ic_arrow_back_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/ic_home_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/ic_logo_white_32dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/ic_refresh_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/ic_share_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/ic_arrow_back_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/ic_home_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/ic_logo_white_32dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/ic_refresh_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/ic_share_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/ic_arrow_back_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/ic_home_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/ic_logo_white_32dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/ic_refresh_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/ic_share_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/ic_arrow_back_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/ic_home_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/ic_logo_white_32dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/ic_refresh_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/ic_share_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/big_logo_dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/big_logo_dark_filled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/big_logo_filled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/ic_arrow_back_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/ic_home_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/ic_logo_white_32dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/ic_refresh_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/ic_share_white_36dp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/notification_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/pin_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/pin_white_fade.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/shell_notification_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable/splash_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/layout/error_activity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/layout/exponent_button.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/layout/exponent_check_box.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/layout/exponent_dev_activity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/layout/notification.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/layout/notification_shell_app.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/dev_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/dev_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/dev_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/dev_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/dev_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/prod/java/host/exp/exponent/BuildVariantConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/debug.keystore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0-javadoc.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0-javadoc.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0-sources.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0-sources.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/27.0.0/react-native-27.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/maven-metadata-remote.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/maven-metadata.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/facebook/react/react-native/resolver-status.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/gettipsi/stripeview/1.0.0/stripeview-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/gettipsi/stripeview/1.0.0/stripeview-1.0.0.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/gettipsi/stripeview/1.0.0/stripeview-1.0.0.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/gettipsi/stripeview/1.0.0/stripeview-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/gettipsi/stripeview/1.0.0/stripeview-1.0.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/gettipsi/stripeview/1.0.0/stripeview-1.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/gettipsi/stripeview/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/gettipsi/stripeview/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/gettipsi/stripeview/maven-metadata.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/google/android/cameraview/1.0.0/cameraview-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/google/android/cameraview/1.0.0/cameraview-1.0.0.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/google/android/cameraview/1.0.0/cameraview-1.0.0.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/google/android/cameraview/1.0.0/cameraview-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/google/android/cameraview/1.0.0/cameraview-1.0.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/google/android/cameraview/1.0.0/cameraview-1.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/google/android/cameraview/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/google/android/cameraview/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/com/google/android/cameraview/maven-metadata.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/facebook/fresco/expolib_v1-imagepipeline-okhttp3/1.0.1/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/facebook/fresco/expolib_v1-imagepipeline-okhttp3/1.0.1/expolib_v1-imagepipeline-okhttp3-1.0.1.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/facebook/fresco/expolib_v1-imagepipeline-okhttp3/1.0.1/expolib_v1-imagepipeline-okhttp3-1.0.1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/facebook/fresco/expolib_v1-imagepipeline-okhttp3/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okhttp3/okhttp-urlconnection/3.6.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okhttp3/okhttp-urlconnection/3.6.0/okhttp-urlconnection-3.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okhttp3/okhttp-urlconnection/3.6.0/okhttp-urlconnection-3.6.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okhttp3/okhttp-urlconnection/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okhttp3/okhttp/3.6.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okhttp3/okhttp/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okio/okio/1.13.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okio/okio/1.13.0/okio-1.13.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/expolib_v1/com/squareup/okio/okio/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0-sources.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0-sources.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/ivy-27.0.0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/27.0.0/ivy-27.0.0.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/maven-metadata-remote.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/maven-metadata.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/exponent/expoview/resolver-status.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi17/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi17/1.0.0/reactandroid-abi17-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi17/1.0.0/reactandroid-abi17-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi17/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi18/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi18/1.0.0/reactandroid-abi18-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi18/1.0.0/reactandroid-abi18-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi18/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi19/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi19/1.0.0/reactandroid-abi19-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi19/1.0.0/reactandroid-abi19-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi19/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi20/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi20/1.0.0/reactandroid-abi20-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi20/1.0.0/reactandroid-abi20-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi20/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi21/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi21/1.0.0/reactandroid-abi21-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi21/1.0.0/reactandroid-abi21-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi21/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi22/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi22/1.0.0/reactandroid-abi22-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi22/1.0.0/reactandroid-abi22-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi22/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi23/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi23/1.0.0/reactandroid-abi23-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi23/1.0.0/reactandroid-abi23-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi23/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi24_0_0/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi24_0_0/1.0.0/reactandroid-abi24_0_0-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi24_0_0/1.0.0/reactandroid-abi24_0_0-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi24_0_0/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi25_0_0/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi25_0_0/1.0.0/reactandroid-abi25_0_0-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi25_0_0/1.0.0/reactandroid-abi25_0_0-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi25_0_0/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi26_0_0/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi26_0_0/1.0.0/reactandroid-abi26_0_0-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi26_0_0/1.0.0/reactandroid-abi26_0_0-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi26_0_0/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi27_0_0/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi27_0_0/1.0.0/reactandroid-abi27_0_0-1.0.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi27_0_0/1.0.0/reactandroid-abi27_0_0-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/host/exp/reactandroid-abi27_0_0/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc-intl/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc-intl/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc-intl/maven-metadata.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc-intl/r216113/android-jsc-intl-r216113.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc-intl/r216113/android-jsc-intl-r216113.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc-intl/r216113/android-jsc-intl-r216113.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc-intl/r216113/android-jsc-intl-r216113.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc-intl/r216113/android-jsc-intl-r216113.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc-intl/r216113/android-jsc-intl-r216113.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc/maven-metadata.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc/r216113/android-jsc-r216113.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc/r216113/android-jsc-r216113.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc/r216113/android-jsc-r216113.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc/r216113/android-jsc-r216113.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc/r216113/android-jsc-r216113.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/maven/org/webkit/android-jsc/r216113/android-jsc-r216113.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/run.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet.xcodeproj/xcshareddata/xcschemes/ncent-mobile-wallet.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet.xcworkspace/xcshareddata/exponent-view-template.xcscmblueprint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet.xcworkspace/xcuserdata/jp.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/AppDelegate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/AppDelegate.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon1024x1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon76x76@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon76x76~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/AppIcon83.5x83.5@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/EXBuildConstants.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/EXBuildConstants.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/EXBuildConstants.plist.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/EXSDKVersions.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/EXShell.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/LaunchScreen.xib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/launch_background_image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/launch_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/main.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/sdkVersions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/shell-app-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ncent-mobile-wallet/Supporting/shell-app.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios_privacy_policy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/privacy_policy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shim.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileWalletDatabase/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileWalletDatabase/develop.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileWalletDatabase/server/config/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileWalletDatabase/server/models/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/MobileWalletDatabase/server/models/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -293,20 +19,61 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="995">
-                <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
+              <first_editor relative-caret-position="929">
+                <caret line="143" selection-start-line="143" selection-end-line="143" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/server/config/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/server/models/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="develop.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/develop.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config.json</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -315,6 +82,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/MobileWalletDatabase/Dockerfile" />
+        <option value="$PROJECT_DIR$/MobileWalletDatabase/develop.sh" />
+        <option value="$PROJECT_DIR$/MobileWalletDatabase/server/config/config.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/MobileWalletDatabase/server/models/index.js" />
       </list>
     </option>
   </component>
@@ -332,14 +104,19 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1680" />
     <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -347,11 +124,40 @@
               <item name="ncent-mobilewallet" type="b2602c69:ProjectViewProjectNode" />
               <item name="ncent-mobilewallet" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ncent-mobilewallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ncent-mobilewallet" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileWalletDatabase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ncent-mobilewallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ncent-mobilewallet" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileWalletDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ncent-mobilewallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ncent-mobilewallet" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileWalletDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ncent-mobilewallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ncent-mobilewallet" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileWalletDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ncent-mobilewallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ncent-mobilewallet" type="462c0819:PsiDirectoryNode" />
+              <item name="nCentMobileWallet" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,33 +188,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536125127545</updated>
-      <workItem from="1536125129096" duration="28000" />
+      <workItem from="1536125129096" duration="297000" />
+      <workItem from="1536172446477" duration="3000" />
+      <workItem from="1536264213869" duration="1274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28000" />
+    <option name="totallyTimeSpent" value="1574000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21875" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
@@ -418,14 +226,93 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="995">
+          <first_editor relative-caret-position="2431">
             <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nCentMobileWallet/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2431">
+            <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nCentMobileWallet/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/test.js" />
+    <entry file="file://$PROJECT_DIR$/nCentMobileWallet/MobileWalletSDK/test.js" />
+    <entry file="file://$PROJECT_DIR$/nCentMobileWallet/ios/nCentMobileWalletTests/nCentMobileWalletTests.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nCentMobileWallet/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="929">
+            <caret line="143" selection-start-line="143" selection-end-line="143" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/develop.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/server/config/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWalletDatabase/server/models/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
